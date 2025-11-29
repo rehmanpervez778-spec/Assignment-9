@@ -1,0 +1,31 @@
+.card{
+    width:300px ;
+    padding: 10px;
+     border: 1px solid navy;
+
+}
+
+
+
+.card image{
+    width: 300px;
+    padding: 5px;
+}
+
+
+.card-content button{
+    padding: 5px 10px;
+    background-color: green;
+
+     
+}
+
+
+
+
+
+
+
+
+    
+
